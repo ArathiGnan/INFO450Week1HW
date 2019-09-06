@@ -14,7 +14,6 @@ int main()
 	cout << "The area is " << area << endl;
 	cout << "The perimeter is " << perimeter << endl;
 
-
 	return 0;
 }
 
